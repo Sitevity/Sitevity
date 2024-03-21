@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Deepak
-Web Developer & Data Analyst
+<p> Web Developer & Data Analyst </p>
 
 I am a skilled Web Developer and Data Analyst proficient in creating dynamic websites and extracting valuable insights from data to drive informed decision-making. My expertise lies in programming languages like HTML, CSS, JavaScript, Python, and SQL, enabling me to build user-friendly interfaces and uncover actionable insights from complex datasets.  * 🌍  I'm based in Patna, India 🖥️  See my portfolio at [My Portfolio](http://portfolio.sitevity.com/Deepak) ✉️  You can contact me at [Deepak0003121@gmail.com](mailto:Deepak0003121@gmail.com)
 
