@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.png) I am Deepak
 
-I am a skilled Web Developer and Data Analyst proficient in creating dynamic websites and extracting valuable insights from data to drive informed decision-making. My expertise lies in programming languages like HTML, CSS, JavaScript, Python, and SQL, enabling me to build user-friendly interfaces and uncover actionable insights from complex datasets.  * 🌍  I'm based in Patna, India 🖥️  See my portfolio at [My Portfolio](http://portfolio.sitevity.com/Deepak) ✉️  You can contact me at [Deepak0003121@gmail.com](mailto:Deepak0003121@gmail.com)
+I am a skilled Web Developer and Data Analyst proficient in creating dynamic websites and extracting valuable insights from data to drive informed decision-making. My expertise lies in programming languages like HTML, CSS, JavaScript, Python, and SQL, enabling me to build user-friendly interfaces and uncover actionable insights from complex datasets.  * 🌍  I'm based in Patna, India 🖥️  See my portfolio at [My Portfolio](http://portfolio.sitevity.com/Deepak) ✉️  You can contact me at [Deepak0003121@gmail.com](mailto:Deepak_2312res783@iitp.ac.in)
 
-🧠  I'm learning MERN Stack Web Development 🤝  I'm open to collaborating on Data Science | AI | ML | Web Dev | Cloud Computing * ⚡  I'm Secretly Spiderman , But don't tell anyone
+🧠  Full Stack Developer | Android Developer
 
 <a href="https://www.github.com/sitevity" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sitevity?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
